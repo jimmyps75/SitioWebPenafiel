@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cursoPlatzi\\platzi-web-app\\PenafielWebsite\\PenafielWebsite.csproj": {}
+    "C:\\Users\\jimmy\\cursos\\integracionCont\\platzi-web-app\\SitioWebPenafiel\\PenafielWebsite\\PenafielWebsite.csproj": {}
   },
   "projects": {
-    "D:\\cursoPlatzi\\platzi-web-app\\PenafielWebsite\\PenafielWebsite.csproj": {
+    "C:\\Users\\jimmy\\cursos\\integracionCont\\platzi-web-app\\SitioWebPenafiel\\PenafielWebsite\\PenafielWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursoPlatzi\\platzi-web-app\\PenafielWebsite\\PenafielWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\jimmy\\cursos\\integracionCont\\platzi-web-app\\SitioWebPenafiel\\PenafielWebsite\\PenafielWebsite.csproj",
         "projectName": "PenafielWebsite",
-        "projectPath": "D:\\cursoPlatzi\\platzi-web-app\\PenafielWebsite\\PenafielWebsite.csproj",
+        "projectPath": "C:\\Users\\jimmy\\cursos\\integracionCont\\platzi-web-app\\SitioWebPenafiel\\PenafielWebsite\\PenafielWebsite.csproj",
         "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-        "outputPath": "D:\\cursoPlatzi\\platzi-web-app\\PenafielWebsite\\obj\\",
+        "outputPath": "C:\\Users\\jimmy\\cursos\\integracionCont\\platzi-web-app\\SitioWebPenafiel\\PenafielWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
